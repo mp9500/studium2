@@ -1,4 +1,5 @@
 # studium2
 
-Ich schreibe etwas.
+find ich doof 
+schreib was anderes 
 
